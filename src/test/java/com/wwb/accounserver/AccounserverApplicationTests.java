@@ -1,13 +1,13 @@
-package com.wwb.accounserver;
-
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class AccounserverApplicationTests {
-
-    @Test
-    void contextLoads() {
-    }
-
-}
+//package com.wwb.accounserver;
+//
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class AccounserverApplicationTests {
+//
+//    @Test
+//    void contextLoads() {
+//    }
+//
+//}
